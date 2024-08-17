@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/motormart/static/css/main.f2d7c5a1.css",
+    "main.js": "/motormart/static/js/main.ee354c21.js",
+    "static/js/453.81f6e775.chunk.js": "/motormart/static/js/453.81f6e775.chunk.js",
+    "static/media/welcome.png": "/motormart/static/media/welcome.03543dc87d860f2f9a69.png",
+    "static/media/BMW.jpg": "/motormart/static/media/BMW.1dcc3ddf47ab2d581fee.jpg",
+    "static/media/BMW (1).jpg": "/motormart/static/media/BMW (1).a96c1d76dfed812a8886.jpg",
+    "static/media/BMW X6 M Competition 2024.jpg": "/motormart/static/media/BMW X6 M Competition 2024.0489d06dcf11f842d7ad.jpg",
+    "static/media/logo.png": "/motormart/static/media/logo.18064e0000349e0e85f5.png",
+    "index.html": "/motormart/index.html",
+    "main.f2d7c5a1.css.map": "/motormart/static/css/main.f2d7c5a1.css.map",
+    "main.ee354c21.js.map": "/motormart/static/js/main.ee354c21.js.map",
+    "453.81f6e775.chunk.js.map": "/motormart/static/js/453.81f6e775.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2d7c5a1.css",
+    "static/js/main.ee354c21.js"
+  ]
+}
